@@ -1,6 +1,6 @@
 package intro;
 
-public class intro {
+public class intro { 
 	private String name;
 	private String description;
 	
